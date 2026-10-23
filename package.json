@@ -1,0 +1,13 @@
+{
+  "name": "sociabuzz-ff-queue",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SociaBuzz webhook starter for Free Fire live queue overlay",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
